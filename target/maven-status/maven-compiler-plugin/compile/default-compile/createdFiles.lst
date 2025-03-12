@@ -1,0 +1,5 @@
+com\info\rewards_points_calculator\model\Transaction.class
+com\info\rewards_points_calculator\dto\RewardsResponse.class
+com\info\rewards_points_calculator\service\RewardsService.class
+com\info\rewards_points_calculator\controller\RewardsController.class
+com\info\rewards_points_calculator\RewardsPointsCalculatorApplication.class
